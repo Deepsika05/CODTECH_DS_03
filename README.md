@@ -1,5 +1,12 @@
 # CODTECH_DS_03
-Create a library management sytem
+
+COMPANY   : CODTECH IT SOLUTIONS
+NAME      : DEEPSIKA A
+INTERN ID : CT08FOT
+DOMAIN    : DATA SCIENCE
+DURATION  : 4 WEEKS
+MENTOR    : NEELA SANTOSH
+This task involves creating a library management system where users can borrow and return books which is checked by the system and the data(catalog of books) is displayed at any time
 class Book:
     def __init__(self, book_id, title, author, quantity):
         self.book_id = book_id
